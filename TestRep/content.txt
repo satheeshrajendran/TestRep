@@ -1,0 +1,7 @@
+!define TEST_SYSTEM {slim}
+!path C:\Satheesh\Fitnesse tool\Sample test\java_i8xnOK
+!|Addition|
+|numerator |denominator |sum? |
+|10|2|12| 
+|10|5|15|
+|20|10|30|
